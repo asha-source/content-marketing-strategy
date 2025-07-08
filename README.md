@@ -40,3 +40,7 @@ Example Input:
  A Word document named like ecostyle_content_strategy.docx
  Note:
  To run this code, install the required package using
+
+output:
+
+[ecostyle_content_strategy.docx](https://github.com/user-attachments/files/21125981/ecostyle_content_strategy.docx)
